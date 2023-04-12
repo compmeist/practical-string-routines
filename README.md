@@ -1,5 +1,5 @@
 # practical-string-routines
-Somewhat useful string utilities in various languages
+Somewhat useful string utilities in various languages (e.g. getting a person's initials)
 
 
 ####  makeInitials 
